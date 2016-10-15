@@ -1,0 +1,4 @@
+Host: astralet.ru
+User-agent: Yandex
+Allow: /
+Sitemap: http://astralet.ru/sitemap.xml
